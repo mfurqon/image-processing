@@ -1,8 +1,8 @@
-#Image Processing Project
+# Image Processing Project
 
 A final project for image processing created with [Python](https://www.python.org).
 
-##Getting Started
+## Getting Started
 
 This project needs python's libraries.
 
